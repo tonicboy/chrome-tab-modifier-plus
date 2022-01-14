@@ -1,9 +1,7 @@
-# <img src="dist/img/icon_32.png" alt="icon"> Tab Modifier
+# <img src="dist/img/icon_32.png" alt="icon"> Tab Modifier Plus
 
 Take control of your tabs.
-
-[![Build Status](http://img.shields.io/travis/sylouuu/chrome-tab-modifier.svg?style=flat)](https://travis-ci.org/sylouuu/chrome-tab-modifier)
-[![devDependency Status](http://img.shields.io/david/dev/sylouuu/chrome-tab-modifier.svg?style=flat)](https://david-dm.org/sylouuu/chrome-tab-modifier#info=devDependencies)
+This is a fork of the fantastic extension [Tab Modifier](https://github.com/sylouuu/chrome-tab-modifier) by [sylouuu](https://github.com/sylouuu) which has been abandoned for 4 years.
 
 ## Features
 
